@@ -1,0 +1,13 @@
+# Ambiente virtual e configurações locais
+.venv/
+.vscode/
+
+# Arquivos temporários do Python e do Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.matplotlib/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
